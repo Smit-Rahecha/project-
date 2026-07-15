@@ -1,0 +1,251 @@
+Employee_ID,Department,Training_Program,Hours_Completed,Training_Cost_USD,Certification_Status,Role_Shifted_Post_Training,Est_Carbon_Reduction_Tons_Yr
+EMP-1000,Supply Chain,Solar PV Installation,81,3217.88,Certified,Yes,14.3
+EMP-1001,Facilities,Carbon Accounting,42,2105.76,Certified,No,637.4
+EMP-1002,Product Design,Circular Economy Basics,146,2361.57,Certified,No,235.3
+EMP-1003,Supply Chain,Eco-Design,156,3022.42,Certified,No,729.5
+EMP-1004,Finance,Circular Economy Basics,159,2319.65,Certified,No,774.0
+EMP-1005,Product Design,Circular Economy Basics,148,3672.69,Certified,No,148.4
+EMP-1006,Product Design,Carbon Accounting,77,726.21,Certified,Yes,369.7
+EMP-1007,Supply Chain,Circular Economy Basics,141,2458.34,Certified,No,1.0
+EMP-1008,Logistics,Solar PV Installation,20,3378.45,In Progress,No,0.0
+EMP-1009,Finance,Solar PV Installation,53,4719.47,In Progress,No,0.0
+EMP-1010,Supply Chain,ESG Reporting,115,2396.7,Certified,No,198.0
+EMP-1011,Finance,Energy Efficiency Auditing,145,1432.3,Failed,No,0.0
+EMP-1012,Finance,Eco-Design,137,1033.4,Certified,No,180.4
+EMP-1013,Product Design,Circular Economy Basics,67,7083.72,In Progress,No,0.0
+EMP-1014,Facilities,Circular Economy Basics,108,3416.47,Certified,No,521.2
+EMP-1015,Finance,Carbon Accounting,136,4568.14,Enrolled,No,0.0
+EMP-1016,IT,Energy Efficiency Auditing,148,6934.24,In Progress,No,0.0
+EMP-1017,Product Design,Solar PV Installation,35,1079.24,In Progress,Yes,0.0
+EMP-1018,Logistics,Eco-Design,88,6636.63,In Progress,No,0.0
+EMP-1019,Facilities,ESG Reporting,41,4361.12,Certified,Yes,119.7
+EMP-1020,IT,Solar PV Installation,112,1653.84,Certified,No,371.7
+EMP-1021,IT,Energy Efficiency Auditing,95,3378.79,In Progress,No,0.0
+EMP-1022,Logistics,ESG Reporting,173,5943.22,Certified,No,316.4
+EMP-1023,Facilities,Carbon Accounting,163,3862.59,In Progress,No,0.0
+EMP-1024,Product Design,Carbon Accounting,198,7397.0,Certified,Yes,577.5
+EMP-1025,Manufacturing,Circular Economy Basics,105,3137.17,Certified,Yes,525.6
+EMP-1026,Facilities,Energy Efficiency Auditing,48,5747.05,Certified,No,605.6
+EMP-1027,Logistics,Eco-Design,88,3250.93,Certified,Yes,762.1
+EMP-1028,IT,ESG Reporting,66,6304.15,Certified,Yes,726.3
+EMP-1029,Product Design,Solar PV Installation,113,4483.57,Certified,No,579.4
+EMP-1030,Facilities,Energy Efficiency Auditing,163,944.58,Certified,No,599.3
+EMP-1031,Manufacturing,Energy Efficiency Auditing,195,757.75,Certified,No,116.7
+EMP-1032,Manufacturing,Carbon Accounting,104,1436.96,Certified,Yes,82.2
+EMP-1033,Finance,Circular Economy Basics,58,595.7,In Progress,No,0.0
+EMP-1034,Finance,Circular Economy Basics,119,1027.51,Certified,No,14.7
+EMP-1035,Supply Chain,ESG Reporting,52,5342.0,Certified,No,385.9
+EMP-1036,Logistics,Carbon Accounting,120,4240.42,Certified,No,168.3
+EMP-1037,Facilities,Energy Efficiency Auditing,42,5749.38,In Progress,No,0.0
+EMP-1038,Facilities,Eco-Design,29,6892.16,Certified,No,620.6
+EMP-1039,Supply Chain,Carbon Accounting,88,4596.05,In Progress,No,0.0
+EMP-1040,IT,ESG Reporting,119,5582.85,Enrolled,No,0.0
+EMP-1041,IT,ESG Reporting,53,5799.57,Certified,No,427.4
+EMP-1042,Supply Chain,Carbon Accounting,199,3144.95,Certified,No,706.0
+EMP-1043,IT,ESG Reporting,157,2187.59,Certified,No,66.0
+EMP-1044,Finance,Carbon Accounting,166,1935.32,Certified,No,659.6
+EMP-1045,Facilities,Solar PV Installation,115,2260.1,Certified,No,286.2
+EMP-1046,Supply Chain,Carbon Accounting,20,2423.12,Enrolled,No,0.0
+EMP-1047,Facilities,Carbon Accounting,88,1950.59,Certified,No,782.0
+EMP-1048,Manufacturing,ESG Reporting,23,6647.54,Certified,No,160.7
+EMP-1049,Finance,ESG Reporting,35,5798.99,Certified,No,554.6
+EMP-1050,Product Design,Circular Economy Basics,43,828.28,In Progress,No,0.0
+EMP-1051,Finance,Circular Economy Basics,99,2380.71,Certified,No,32.9
+EMP-1052,Supply Chain,Solar PV Installation,21,655.29,Certified,No,536.3
+EMP-1053,Product Design,Circular Economy Basics,147,3987.16,Enrolled,No,0.0
+EMP-1054,Manufacturing,Carbon Accounting,179,3833.47,In Progress,No,0.0
+EMP-1055,Supply Chain,ESG Reporting,103,6319.6,Certified,Yes,717.0
+EMP-1056,Logistics,Circular Economy Basics,171,2654.44,In Progress,Yes,0.0
+EMP-1057,Facilities,Circular Economy Basics,159,6214.7,In Progress,No,0.0
+EMP-1058,Manufacturing,Solar PV Installation,197,7275.82,Certified,No,490.4
+EMP-1059,Facilities,Energy Efficiency Auditing,182,1118.86,Certified,Yes,239.1
+EMP-1060,IT,Solar PV Installation,143,6042.72,Certified,Yes,748.2
+EMP-1061,Logistics,Carbon Accounting,52,4629.69,Certified,Yes,757.9
+EMP-1062,Logistics,ESG Reporting,180,3860.32,In Progress,Yes,0.0
+EMP-1063,Manufacturing,Solar PV Installation,198,3443.75,Enrolled,Yes,0.0
+EMP-1064,Logistics,Circular Economy Basics,190,5992.68,Certified,No,489.8
+EMP-1065,Product Design,ESG Reporting,120,4975.53,Certified,No,387.5
+EMP-1066,Logistics,ESG Reporting,31,6135.31,Certified,Yes,528.7
+EMP-1067,Facilities,Circular Economy Basics,86,6822.06,Certified,No,442.4
+EMP-1068,Facilities,Solar PV Installation,84,4820.85,In Progress,Yes,0.0
+EMP-1069,Supply Chain,Circular Economy Basics,180,7363.24,Certified,Yes,627.1
+EMP-1070,Facilities,Energy Efficiency Auditing,187,4756.61,Certified,No,384.7
+EMP-1071,Supply Chain,ESG Reporting,93,4956.51,Certified,No,32.6
+EMP-1072,Facilities,Eco-Design,62,4383.71,Certified,Yes,131.2
+EMP-1073,Product Design,Eco-Design,63,1137.01,Certified,No,350.9
+EMP-1074,Supply Chain,Carbon Accounting,48,5584.78,In Progress,Yes,0.0
+EMP-1075,Finance,Circular Economy Basics,160,4332.12,Certified,No,474.6
+EMP-1076,IT,Circular Economy Basics,31,3656.37,In Progress,No,0.0
+EMP-1077,Manufacturing,Carbon Accounting,114,6873.3,Certified,No,383.4
+EMP-1078,Facilities,Carbon Accounting,65,2585.72,Certified,Yes,492.6
+EMP-1079,Logistics,Carbon Accounting,149,4165.22,Certified,No,263.2
+EMP-1080,Facilities,ESG Reporting,54,5383.49,Failed,Yes,0.0
+EMP-1081,Logistics,Energy Efficiency Auditing,100,6075.3,Enrolled,Yes,0.0
+EMP-1082,IT,Circular Economy Basics,109,3715.43,Certified,No,697.5
+EMP-1083,IT,ESG Reporting,27,6394.64,Certified,Yes,346.9
+EMP-1084,IT,Carbon Accounting,112,5882.42,Enrolled,No,0.0
+EMP-1085,Logistics,Circular Economy Basics,173,963.65,Certified,No,129.3
+EMP-1086,Facilities,ESG Reporting,109,821.03,Certified,Yes,16.7
+EMP-1087,IT,Energy Efficiency Auditing,181,4845.64,Enrolled,No,0.0
+EMP-1088,Product Design,ESG Reporting,134,2931.89,Certified,No,265.9
+EMP-1089,Supply Chain,Energy Efficiency Auditing,124,1963.92,Certified,No,434.0
+EMP-1090,Logistics,Carbon Accounting,154,4557.55,Certified,No,394.6
+EMP-1091,Logistics,Energy Efficiency Auditing,77,2890.94,Certified,No,65.2
+EMP-1092,Facilities,Circular Economy Basics,133,4260.84,Certified,No,322.6
+EMP-1093,Logistics,Carbon Accounting,94,3720.83,In Progress,No,0.0
+EMP-1094,Logistics,Circular Economy Basics,176,4593.36,Certified,Yes,334.7
+EMP-1095,IT,Eco-Design,139,3302.1,Certified,No,162.9
+EMP-1096,Facilities,Solar PV Installation,183,5383.67,Certified,No,672.4
+EMP-1097,IT,Energy Efficiency Auditing,40,1760.47,Certified,Yes,139.4
+EMP-1098,Supply Chain,Solar PV Installation,183,5375.51,Enrolled,No,0.0
+EMP-1099,Supply Chain,Solar PV Installation,157,3381.63,Certified,Yes,332.7
+EMP-1100,IT,Energy Efficiency Auditing,120,6620.22,Certified,Yes,677.0
+EMP-1101,Supply Chain,Carbon Accounting,171,4106.65,Failed,No,0.0
+EMP-1102,Facilities,Eco-Design,196,7311.77,Certified,Yes,588.3
+EMP-1103,Manufacturing,Circular Economy Basics,118,4713.55,Certified,No,614.2
+EMP-1104,IT,ESG Reporting,55,2066.94,Certified,No,403.9
+EMP-1105,Product Design,Circular Economy Basics,115,6252.53,Certified,No,434.6
+EMP-1106,Product Design,ESG Reporting,171,2915.58,Certified,No,411.2
+EMP-1107,Logistics,Circular Economy Basics,170,2933.33,Certified,Yes,470.4
+EMP-1108,Supply Chain,Energy Efficiency Auditing,56,722.63,In Progress,No,0.0
+EMP-1109,Product Design,Eco-Design,31,4341.01,Certified,No,316.4
+EMP-1110,Logistics,ESG Reporting,132,4240.96,Certified,No,485.0
+EMP-1111,Manufacturing,Carbon Accounting,32,2991.94,Certified,Yes,478.2
+EMP-1112,Facilities,Circular Economy Basics,42,6759.52,Certified,No,634.4
+EMP-1113,Facilities,Circular Economy Basics,118,1401.24,In Progress,No,0.0
+EMP-1114,Facilities,ESG Reporting,124,2810.7,Certified,No,793.7
+EMP-1115,Product Design,Carbon Accounting,49,2751.08,Certified,No,227.1
+EMP-1116,Manufacturing,Carbon Accounting,36,1146.03,In Progress,No,0.0
+EMP-1117,Product Design,Energy Efficiency Auditing,132,3868.02,Certified,No,307.1
+EMP-1118,Supply Chain,Energy Efficiency Auditing,81,5314.49,Certified,No,372.7
+EMP-1119,Product Design,Energy Efficiency Auditing,103,4081.6,Certified,Yes,668.8
+EMP-1120,Manufacturing,Energy Efficiency Auditing,131,1598.84,Certified,No,188.6
+EMP-1121,Manufacturing,Energy Efficiency Auditing,105,3141.0,In Progress,No,0.0
+EMP-1122,Supply Chain,Energy Efficiency Auditing,160,518.17,Certified,No,324.2
+EMP-1123,Manufacturing,Eco-Design,38,6578.11,Certified,No,481.5
+EMP-1124,Manufacturing,Carbon Accounting,196,1091.62,Certified,Yes,506.0
+EMP-1125,Facilities,Energy Efficiency Auditing,119,4680.95,In Progress,No,0.0
+EMP-1126,Supply Chain,Carbon Accounting,159,7403.8,Certified,Yes,410.1
+EMP-1127,Finance,Carbon Accounting,166,4256.13,Failed,No,0.0
+EMP-1128,Finance,Solar PV Installation,95,6968.29,Certified,Yes,55.3
+EMP-1129,Manufacturing,Eco-Design,28,2152.82,In Progress,Yes,0.0
+EMP-1130,Finance,Energy Efficiency Auditing,47,5819.69,Enrolled,No,0.0
+EMP-1131,Finance,Circular Economy Basics,147,4218.86,In Progress,No,0.0
+EMP-1132,Manufacturing,ESG Reporting,71,5543.61,Failed,Yes,0.0
+EMP-1133,Finance,Circular Economy Basics,102,936.39,Certified,Yes,463.5
+EMP-1134,Product Design,Eco-Design,130,1534.17,Certified,Yes,530.1
+EMP-1135,Logistics,ESG Reporting,163,1431.82,Certified,No,76.2
+EMP-1136,Supply Chain,Eco-Design,136,5310.16,Certified,Yes,521.7
+EMP-1137,Logistics,Carbon Accounting,88,6411.08,Certified,No,249.7
+EMP-1138,Manufacturing,ESG Reporting,118,5747.31,Certified,No,319.2
+EMP-1139,Facilities,Carbon Accounting,159,713.31,Certified,Yes,686.4
+EMP-1140,Supply Chain,Circular Economy Basics,44,6570.5,Certified,No,7.2
+EMP-1141,Manufacturing,Circular Economy Basics,199,2979.03,Failed,No,0.0
+EMP-1142,Facilities,ESG Reporting,142,3280.15,Certified,Yes,479.0
+EMP-1143,Logistics,ESG Reporting,72,1234.08,In Progress,No,0.0
+EMP-1144,Manufacturing,Energy Efficiency Auditing,170,5661.84,In Progress,No,0.0
+EMP-1145,Supply Chain,Eco-Design,163,1775.99,Enrolled,No,0.0
+EMP-1146,Supply Chain,Energy Efficiency Auditing,76,4447.76,Certified,No,707.0
+EMP-1147,IT,Eco-Design,58,6384.97,In Progress,No,0.0
+EMP-1148,Product Design,Energy Efficiency Auditing,128,1124.43,Enrolled,No,0.0
+EMP-1149,Finance,Carbon Accounting,61,4247.35,Enrolled,No,0.0
+EMP-1150,Facilities,ESG Reporting,186,2132.51,Certified,No,535.5
+EMP-1151,IT,Circular Economy Basics,161,2900.49,Certified,No,116.6
+EMP-1152,Finance,Eco-Design,141,3817.79,Certified,No,359.5
+EMP-1153,Finance,Eco-Design,152,2985.73,Certified,Yes,470.3
+EMP-1154,Manufacturing,Circular Economy Basics,182,5041.76,Certified,Yes,758.9
+EMP-1155,Finance,Energy Efficiency Auditing,94,3857.07,In Progress,Yes,0.0
+EMP-1156,Product Design,Eco-Design,165,4589.4,In Progress,Yes,0.0
+EMP-1157,Supply Chain,Carbon Accounting,95,5657.76,Certified,Yes,303.5
+EMP-1158,IT,ESG Reporting,28,4404.2,Failed,No,0.0
+EMP-1159,Finance,Circular Economy Basics,93,4605.75,Certified,Yes,285.4
+EMP-1160,Manufacturing,ESG Reporting,164,4451.21,In Progress,No,0.0
+EMP-1161,Product Design,Eco-Design,26,3151.41,Enrolled,Yes,0.0
+EMP-1162,Logistics,Eco-Design,193,2862.13,Certified,No,564.3
+EMP-1163,Supply Chain,Circular Economy Basics,160,6797.53,Certified,No,357.1
+EMP-1164,Supply Chain,Carbon Accounting,187,4752.89,In Progress,No,0.0
+EMP-1165,IT,Solar PV Installation,189,2210.47,Certified,No,446.5
+EMP-1166,Supply Chain,Circular Economy Basics,156,3987.73,Certified,Yes,431.9
+EMP-1167,Finance,Solar PV Installation,197,2812.44,In Progress,No,0.0
+EMP-1168,Manufacturing,Energy Efficiency Auditing,46,7035.84,Certified,Yes,789.4
+EMP-1169,Supply Chain,Solar PV Installation,141,552.74,In Progress,No,0.0
+EMP-1170,Supply Chain,Carbon Accounting,24,2077.33,Certified,Yes,184.9
+EMP-1171,Logistics,Energy Efficiency Auditing,48,3057.5,Failed,No,0.0
+EMP-1172,Logistics,Solar PV Installation,184,3914.67,Certified,No,512.0
+EMP-1173,Facilities,Energy Efficiency Auditing,185,6455.72,Enrolled,Yes,0.0
+EMP-1174,Product Design,Solar PV Installation,102,1115.21,In Progress,Yes,0.0
+EMP-1175,Finance,Carbon Accounting,155,6141.05,Certified,Yes,70.8
+EMP-1176,Supply Chain,Solar PV Installation,128,889.57,Certified,Yes,82.6
+EMP-1177,Supply Chain,Solar PV Installation,84,6396.2,Enrolled,No,0.0
+EMP-1178,Manufacturing,Solar PV Installation,105,861.45,Certified,Yes,550.6
+EMP-1179,Facilities,Circular Economy Basics,164,627.7,Certified,No,317.9
+EMP-1180,Product Design,Circular Economy Basics,90,5378.73,Certified,Yes,383.9
+EMP-1181,Facilities,Circular Economy Basics,64,7480.79,Certified,No,548.8
+EMP-1182,IT,Carbon Accounting,151,6776.27,In Progress,Yes,0.0
+EMP-1183,Product Design,Energy Efficiency Auditing,55,4531.99,In Progress,Yes,0.0
+EMP-1184,Supply Chain,Eco-Design,89,6921.77,Certified,Yes,778.5
+EMP-1185,Supply Chain,Solar PV Installation,178,537.1,Certified,No,464.1
+EMP-1186,Product Design,Solar PV Installation,38,7325.47,Certified,No,203.4
+EMP-1187,Supply Chain,Carbon Accounting,127,3935.24,Certified,No,417.4
+EMP-1188,Finance,Solar PV Installation,186,5560.27,Certified,Yes,274.1
+EMP-1189,Product Design,Circular Economy Basics,110,6246.03,Enrolled,No,0.0
+EMP-1190,Facilities,Eco-Design,109,5529.2,In Progress,No,0.0
+EMP-1191,Product Design,ESG Reporting,38,4245.26,In Progress,Yes,0.0
+EMP-1192,Supply Chain,Solar PV Installation,58,3836.34,In Progress,No,0.0
+EMP-1193,Finance,Circular Economy Basics,145,6370.08,Certified,No,751.9
+EMP-1194,Finance,ESG Reporting,192,1935.54,In Progress,Yes,0.0
+EMP-1195,IT,Eco-Design,160,7275.96,Certified,No,129.9
+EMP-1196,Facilities,ESG Reporting,145,5476.67,Certified,No,150.7
+EMP-1197,Logistics,Circular Economy Basics,77,1896.55,Certified,No,584.7
+EMP-1198,Logistics,Energy Efficiency Auditing,167,5653.73,Certified,Yes,124.9
+EMP-1199,Product Design,Energy Efficiency Auditing,80,4208.88,In Progress,Yes,0.0
+EMP-1200,IT,ESG Reporting,146,5450.61,Certified,No,770.7
+EMP-1201,Manufacturing,Carbon Accounting,124,5874.46,Certified,No,204.2
+EMP-1202,Product Design,ESG Reporting,186,1111.03,Certified,No,529.3
+EMP-1203,IT,Solar PV Installation,20,4042.73,Certified,No,782.9
+EMP-1204,Facilities,Solar PV Installation,150,7024.1,In Progress,No,0.0
+EMP-1205,Facilities,Energy Efficiency Auditing,111,2744.5,Certified,No,14.0
+EMP-1206,Facilities,Carbon Accounting,132,4657.18,Certified,No,195.3
+EMP-1207,Facilities,Circular Economy Basics,172,3084.61,Certified,Yes,664.7
+EMP-1208,Facilities,Solar PV Installation,75,3679.88,Certified,No,691.7
+EMP-1209,IT,Energy Efficiency Auditing,180,4340.22,In Progress,No,0.0
+EMP-1210,IT,Eco-Design,185,4342.45,Certified,No,90.5
+EMP-1211,Finance,Energy Efficiency Auditing,136,1912.11,In Progress,Yes,0.0
+EMP-1212,Logistics,Solar PV Installation,153,5292.0,Certified,Yes,734.9
+EMP-1213,Supply Chain,Solar PV Installation,77,1115.08,Certified,Yes,480.5
+EMP-1214,Facilities,Energy Efficiency Auditing,63,1471.77,Enrolled,No,0.0
+EMP-1215,Manufacturing,Circular Economy Basics,192,518.98,Certified,No,661.5
+EMP-1216,Supply Chain,ESG Reporting,179,1316.87,Certified,Yes,533.6
+EMP-1217,IT,Solar PV Installation,192,3812.16,In Progress,No,0.0
+EMP-1218,Manufacturing,Energy Efficiency Auditing,80,4742.71,Certified,No,278.9
+EMP-1219,Manufacturing,Energy Efficiency Auditing,66,6060.03,In Progress,No,0.0
+EMP-1220,Manufacturing,Carbon Accounting,168,1246.89,Certified,Yes,484.0
+EMP-1221,Finance,ESG Reporting,99,6455.09,Enrolled,No,0.0
+EMP-1222,IT,Eco-Design,137,5721.82,In Progress,No,0.0
+EMP-1223,Manufacturing,Circular Economy Basics,183,3359.63,Certified,Yes,794.7
+EMP-1224,Facilities,Eco-Design,166,7030.57,Enrolled,Yes,0.0
+EMP-1225,Product Design,ESG Reporting,39,7436.51,Certified,No,72.4
+EMP-1226,Manufacturing,ESG Reporting,165,1935.01,Enrolled,No,0.0
+EMP-1227,Finance,ESG Reporting,66,3154.6,Certified,Yes,87.3
+EMP-1228,Supply Chain,Eco-Design,68,6985.15,Certified,No,520.4
+EMP-1229,IT,ESG Reporting,33,5551.18,Certified,No,612.2
+EMP-1230,Finance,Energy Efficiency Auditing,162,836.66,Certified,No,740.5
+EMP-1231,Manufacturing,Eco-Design,178,5970.6,Certified,No,350.5
+EMP-1232,IT,ESG Reporting,20,6295.59,In Progress,No,0.0
+EMP-1233,Product Design,Energy Efficiency Auditing,136,5753.51,In Progress,No,0.0
+EMP-1234,Manufacturing,Carbon Accounting,73,6096.76,Enrolled,Yes,0.0
+EMP-1235,Finance,ESG Reporting,137,6275.93,Certified,Yes,695.1
+EMP-1236,Logistics,Eco-Design,22,1804.83,Certified,No,300.5
+EMP-1237,Facilities,Solar PV Installation,163,2149.84,Certified,No,237.5
+EMP-1238,Supply Chain,ESG Reporting,31,4936.31,Certified,Yes,519.3
+EMP-1239,Finance,Solar PV Installation,93,6855.06,Certified,No,262.7
+EMP-1240,IT,Energy Efficiency Auditing,35,2713.38,Certified,No,504.2
+EMP-1241,Manufacturing,Carbon Accounting,121,4618.15,In Progress,No,0.0
+EMP-1242,Facilities,Circular Economy Basics,171,5280.87,Certified,No,450.8
+EMP-1243,Manufacturing,Carbon Accounting,175,3663.64,Certified,No,304.3
+EMP-1244,IT,ESG Reporting,136,5496.48,Certified,Yes,438.8
+EMP-1245,Manufacturing,Solar PV Installation,27,6797.67,Certified,Yes,477.2
+EMP-1246,Logistics,Solar PV Installation,141,4868.71,Certified,Yes,436.5
+EMP-1247,Facilities,Eco-Design,111,4278.47,Enrolled,Yes,0.0
+EMP-1248,Facilities,Solar PV Installation,183,3571.21,Certified,No,11.7
+EMP-1249,IT,Eco-Design,109,4542.4,Certified,No,469.6
